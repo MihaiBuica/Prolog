@@ -1,2 +1,2 @@
 # Prolog
-Logic programming
+Logical programming
